@@ -11,6 +11,7 @@ Install and set up Python 3.
 Install cmake in your system
 
 
-![saved_img](https://user-images.githubusercontent.com/66065738/151975605-ea4d1530-ff64-460b-819c-7c8421c6c067.jpg)
-![saved_img_2](https://user-images.githubusercontent.com/66065738/151975637-a6e091f4-30fd-45e9-868f-73e9dab74498.jpg)
-![saved_img3](https://user-images.githubusercontent.com/66065738/151975670-de1b0db9-b0ca-4ded-aa13-a5e4d5c7f2af.jpg)
+
+![1](https://user-images.githubusercontent.com/66065738/151976404-d03b693e-d260-4243-a67b-f952a5c5548c.png)
+![2](https://user-images.githubusercontent.com/66065738/151976418-a77b87e8-720a-4b35-9894-b7df2c661bc2.png)
+![3](https://user-images.githubusercontent.com/66065738/151976426-7e9af900-9778-4cb4-8940-2383745d90e0.png)
