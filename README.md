@@ -9,3 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 Install and set up Python 3.
 Install cmake in your system
+
+
+![saved_img](https://user-images.githubusercontent.com/66065738/151975605-ea4d1530-ff64-460b-819c-7c8421c6c067.jpg)
+![saved_img_2](https://user-images.githubusercontent.com/66065738/151975637-a6e091f4-30fd-45e9-868f-73e9dab74498.jpg)
+![saved_img3](https://user-images.githubusercontent.com/66065738/151975670-de1b0db9-b0ca-4ded-aa13-a5e4d5c7f2af.jpg)
