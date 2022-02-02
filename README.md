@@ -43,4 +43,5 @@ Using the Dlib library, the 6 coordinates on each eye and 20 coordinates on the 
 
 # References
 1) https://ieeexplore.ieee.org/document/8808931
-2) https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+2) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356401
+3) https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
