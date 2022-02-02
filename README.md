@@ -17,3 +17,11 @@ Install cmake in your system
 ![2](https://user-images.githubusercontent.com/66065738/151976418-a77b87e8-720a-4b35-9894-b7df2c661bc2.png)
 ![3](https://user-images.githubusercontent.com/66065738/151976426-7e9af900-9778-4cb4-8940-2383745d90e0.png)
 
+
+
+
+
+
+# References
+1) https://ieeexplore.ieee.org/document/8808931
+2) https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
