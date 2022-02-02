@@ -26,11 +26,18 @@ Using the Dlib library, the 6 coordinates on each eye and 20 coordinates on the 
 
 
 # Results
-
-![1](https://user-images.githubusercontent.com/66065738/151976404-d03b693e-d260-4243-a67b-f952a5c5548c.png)
-![4](https://user-images.githubusercontent.com/66065738/151977127-5707590c-32ea-4f55-9907-eeffa587c2ed.png)
-![2](https://user-images.githubusercontent.com/66065738/151976418-a77b87e8-720a-4b35-9894-b7df2c661bc2.png)
-![3](https://user-images.githubusercontent.com/66065738/151976426-7e9af900-9778-4cb4-8940-2383745d90e0.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66065738/151976404-d03b693e-d260-4243-a67b-f952a5c5548c.png">
+</p>
+<p align="center">          
+<img src="https://user-images.githubusercontent.com/66065738/151977127-5707590c-32ea-4f55-9907-eeffa587c2ed.png">
+</p>
+<p align="center">         
+<img src="https://user-images.githubusercontent.com/66065738/151976418-a77b87e8-720a-4b35-9894-b7df2c661bc2.png">
+</p>
+<p align="center">           
+<img src="https://user-images.githubusercontent.com/66065738/151976426-7e9af900-9778-4cb4-8940-2383745d90e0.png">
+</p>       
 
 
 
