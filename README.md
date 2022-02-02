@@ -4,13 +4,19 @@ Drowsiness detection is a safety technology that can prevent accidents that are 
 # Motivation
 According to the National Highway Traffic Safety Administration, every year about 100,000 police-reported crashes involve drowsy driving. These crashes result in more than 1,550 fatalities and 71,000 injuries. The real number may be much higher, however, as it is difficult to determine whether a driver was drowsy at the time of a crash. So, we tried to build a system, that detects whether a person is drowsy and alert him.
 
-# Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+# Algorithms and Formulas
+Using the Dlib library, the 6 coordinates on each eye and 20 coordinates on the mouth region were marked. Using those landmarks, Eye Aspect Ration (EAR) and Mouth Aspect Ratio (MAR) were calculated as shown in the formulas below:
 
-Install and set up Python 3.
-Install cmake in your system
+![image](https://user-images.githubusercontent.com/66065738/152203244-52d8c827-1fbf-4387-8237-c5d63779f741.png)
+
+![image](https://user-images.githubusercontent.com/66065738/152202994-75fdb868-61b7-4164-973e-1b62c1252800.png)
+
+# EAR=(||p2-p6|| + ||p3-p5||)/ (2x||p1-p4||)
+          
+![image](https://user-images.githubusercontent.com/66065738/152202892-4a3a2c66-a9d1-4249-9651-7204d2fb84c7.png)
 
 
+# Results
 
 ![1](https://user-images.githubusercontent.com/66065738/151976404-d03b693e-d260-4243-a67b-f952a5c5548c.png)
 ![4](https://user-images.githubusercontent.com/66065738/151977127-5707590c-32ea-4f55-9907-eeffa587c2ed.png)
