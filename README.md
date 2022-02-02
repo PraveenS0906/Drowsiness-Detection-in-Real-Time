@@ -7,11 +7,17 @@ According to the National Highway Traffic Safety Administration, every year abou
 # Algorithms and Formulas
 Using the Dlib library, the 6 coordinates on each eye and 20 coordinates on the mouth region were marked. Using those landmarks, Eye Aspect Ration (EAR) and Mouth Aspect Ratio (MAR) were calculated as shown in the formulas below:
 
-![image](https://user-images.githubusercontent.com/66065738/152203244-52d8c827-1fbf-4387-8237-c5d63779f741.png)
+<p align="center">
+          <img src="https://user-images.githubusercontent.com/66065738/152203244-52d8c827-1fbf-4387-8237-c5d63779f741.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/66065738/152202994-75fdb868-61b7-4164-973e-1b62c1252800.png)
+<p align="center">
+          <img src="https://user-images.githubusercontent.com/66065738/152202994-75fdb868-61b7-4164-973e-1b62c1252800.png">      
+</p>
 
-# EAR=(||p2-p6|| + ||p3-p5||)/2x||p1-p4||)
+<p align="center"> EAR=(||p2-p6|| + ||p3-p5||)/2x||p1-p4||)</p>
+
+
           
 ![image](https://user-images.githubusercontent.com/66065738/152202892-4a3a2c66-a9d1-4249-9651-7204d2fb84c7.png)
 
