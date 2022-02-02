@@ -11,10 +11,11 @@ Using the Dlib library, the 6 coordinates on each eye and 20 coordinates on the 
 
 ![image](https://user-images.githubusercontent.com/66065738/152202994-75fdb868-61b7-4164-973e-1b62c1252800.png)
 
-# EAR=(||p2-p6|| + ||p3-p5||)/ (2x||p1-p4||)
+# EAR=(||p2-p6|| + ||p3-p5||)/2x||p1-p4||)
           
 ![image](https://user-images.githubusercontent.com/66065738/152202892-4a3a2c66-a9d1-4249-9651-7204d2fb84c7.png)
 
+# MAR = (||p62-p68|| + ||p63-p67|| + ||p64-p66||)/(3x||p61-p65||) 
 
 # Results
 
